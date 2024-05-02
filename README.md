@@ -15,6 +15,7 @@ You can try out the live version of the website: https://b-cafe-landing-page.ver
 - **Swiper JS Image Slider**: Utilizes the Swiper JS library to create a touch-enabled image slider, allowing users to browse through customer reviews with ease.
 
 - **ScrollReveal Animations**: Incorporates the ScrollReveal JS library to animate elements as they come into view, creating a visually appealing and dynamic effect.
+- **Mobile-friendly Navigation**: The navigation bar collapses into a hamburger menu on smaller devices, optimizing navigation for mobile users.
 
 ## Installation
 
