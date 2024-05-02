@@ -8,9 +8,13 @@ You can try out the live version of the website: https://b-cafe-landing-page.ver
 
 - **Responsive Design**: The landing page is designed to adapt seamlessly to various screen sizes, ensuring a consistent experience across devices.
 
-- **Interactive UI**: Experience fluid animations and interactive elements that enhance user engagement and provide an enjoyable browsing experience.
+- **Interactive UI**: Enjoy an interactive user interface with smooth animations that enhance user engagement.
 
-- **Coffee Cafe Theme**: Immerse yourself in the cozy atmosphere of a coffee cafe with carefully crafted design elements and visuals.
+- **Fluid Animations**: Experience fluid animations throughout the landing page, adding a dynamic touch to the browsing experience.
+
+- **Swiper JS Image Slider**: Utilizes the Swiper JS library to create a touch-enabled image slider, allowing users to browse through customer reviews with ease.
+
+- **ScrollReveal Animations**: Incorporates the ScrollReveal JS library to animate elements as they come into view, creating a visually appealing and dynamic effect.
 
 ## Installation
 
@@ -27,6 +31,17 @@ To run the project locally, follow these steps:
    ```
 
 3. Open the `index.html` file in your preferred web browser.
+
+
+
+
+
+
+
+
+
+
+
 
 
 
