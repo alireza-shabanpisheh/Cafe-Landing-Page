@@ -2,7 +2,7 @@
 
 Welcome to B.Cafe's responsive landing page repository! This landing page was created using HTML, CSS, and JavaScript to provide an interactive user interface and fluid animations. 
 
-You can try out the live version of the website [here](https://b-cafe-landing-page.vercel.app/).
+You can try out the live version of the website: https://b-cafe-landing-page.vercel.app/
 
 ## Features
 
@@ -23,7 +23,7 @@ To run the project locally, follow these steps:
 
 2. Navigate to the project directory:
    ```
-   cd b-cafe-landing-page
+   cd CodSoft-Landing-Page
    ```
 
 3. Open the `index.html` file in your preferred web browser.
