@@ -23,7 +23,7 @@ To run the project locally, follow these steps:
 
 1. Clone the repository to your local machine:
    ```
-   git clone https://github.com/sagnikbose-11-01/CodSoft-Landing-Page.git
+   git clone https://github.com/alireza-shabanpisheh/Cafe-Landing-Page.git
    ```
 
 2. Navigate to the project directory:
